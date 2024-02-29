@@ -13,7 +13,7 @@ st.markdown(
 with st.expander("About this project 🎦"):
     st.markdown("""
         
-        The application is created for fun, utilizing the Python programming language along with modules such as PIL, NumPy, and Streamlit. 
+        The application is created for fun, utilizing the Python programming language along with modules such as PIL,and Streamlit. 
         I'm fine-tuning my skills as part of my data analysis journey, and the project is still in its initial phase. 
         While it may not consistently produce accurate sketch images, I'm striving to optimize the output quality. 
         
