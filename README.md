@@ -9,7 +9,7 @@
 This application, StreamlitSketchR, is a fun project that allows users to convert uploaded images into magical sketches using the Streamlit framework and the Python programming language. It utilizes the following modules:
 - Streamlit for creating the interactive web application.
 - PIL (Python Imaging Library) for image processing.
-  
+- "Still in development, I'm striving to enhance the code quality; it represents the initial version of the app."
 ## How It Works
 1. Users can upload an image in PNG, JPEG, or JPG format.
 2. Click the "Sketch Me" button to generate a magical sketch based on the uploaded image.
